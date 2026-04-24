@@ -1,0 +1,6 @@
+{
+  "name": "Mini CRM - Lead Management",
+  "description": "A professional full-stack Lead Management System for admins to track, manage, and follow up with leads securely.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["auth", "database"]
+}
